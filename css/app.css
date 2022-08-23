@@ -1,0 +1,19 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.linkTitle{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.card{
+    font-weight: 400;
+}
+.btn-s{
+  border: 1px solid #458c48;  
+  color: #458c48;
+}
+.btn-s:hover{
+  border: 1px solid #458c48;  
+  background-color: #458c48;
+  color: white;
+}
